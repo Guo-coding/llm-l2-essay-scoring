@@ -1,6 +1,7 @@
 # LLM Scoring of L2 Essays
+***Shiyi Guo***
 
-Code and data used for a master's thesis on LLM-based scoring of essays from
+Code and data used for my master's thesis on LLM-based scoring of essays from
 the ELLIPSE corpus. The repository includes prompt-based scoring, linguistic
 feature extraction, Ridge calibration and fusion, statistical tests, and the
 figures reported in the thesis.
