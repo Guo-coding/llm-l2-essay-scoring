@@ -10,8 +10,6 @@ figures reported in the thesis.
 
 ```text
 data/
-  raw/                original ELLIPSE files
-  interim/            files created during processing
   processed/          sampled essays and model scores
   resources/          lexical resources
 external/             location for TAACO
